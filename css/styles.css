@@ -1,0 +1,256 @@
+body{
+    background-color: #FAF5EF;
+    font-family: Poppins;
+    margin: 0px;
+}
+nav{
+    padding: 45px 20px 45px 50px;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: top;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+    float: right;
+    margin-top: 50px;
+    
+
+}
+li{
+    display: inline;
+    padding: 30px;
+    font-size: 30px;
+}
+
+.hero{
+    padding: 50px 0px 150px 50px;
+    justify-content: space-between;
+    background-image: url(/images/walking-people.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+h1{
+    font-size: 65px;
+    font-weight: 600;
+}
+
+p{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.p-bold{
+    font-weight: 700;
+}
+
+.color-block{
+    background-color: #FFE6B5;
+    width: 450px;
+    height: 23px;
+    margin-top: -50px;
+    margin-left: 15px;
+}
+
+.support-us-button{
+    background-color: #EC7C6A;
+    border-style: none;
+    padding-top: 36px;
+    padding-bottom: 36px;
+    width: 523px;
+    border-radius: 50px;
+
+}
+
+button{
+    font-size: 30px;
+    font-weight: 500;
+
+}
+
+.left-hero{
+    display: inline-block;
+}
+
+.right-hero{
+    float: right;
+    margin-top: 160px;
+    margin-right: 0px;
+    display: none;
+}
+
+.walking-people{
+    max-width: 100%;
+}
+
+.second-section{
+    background-image: url(/images/wave-yellow.png);
+    background-repeat:no-repeat;
+    display: inline-flex;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    justify-content: space-between;
+    height: 970px;
+    align-items: center;
+    margin-top: -140px;
+
+
+
+    
+}
+
+.left-second-section{
+    padding: 200px 50px 0px 50px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+.right-second-section{
+    padding: 50px;
+    display: inline-block;
+    padding: 50px 50px 50px 50px;
+
+}
+
+.about-us-button{
+    background-color: #00715D;
+    color: white;
+    border-style: none;
+    padding-top: 36px;
+    padding-bottom: 36px;
+    width: 523px;
+    border-radius: 50px;
+    margin-top: 50px;
+}
+
+.third-section{
+    display: block;
+    padding: 50px 50px 50px 50px;
+    max-width: 100%;
+}
+
+.third-card-section{
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+    gap: 5%;
+    
+    
+}
+
+h2{
+    font-size: 44px;
+    font-weight: 500;
+}
+
+.view-all-button-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.view-all-button{
+    background-color: #EC7C6A;
+    border-style: none;
+    padding-top: 36px;
+    padding-bottom: 36px;
+    width: 523px;
+    border-radius: 50px;
+}
+
+.fourth-section{
+    text-align: center;
+    background-image: url(/images/wave-blue.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.fourth-section h1{
+    color: #FAF5EF;
+    width: 100%;
+}
+
+.sponsors{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+.sponsor-images{
+    max-width: 100%;
+    padding-right: 20px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    padding-bottom: 40px;
+    
+    
+}
+
+.left-footer p{
+    font-size: 22px;
+    margin-bottom: 0px;
+    
+}
+
+.contact-us-button{
+    font-size: 22px;
+    background-color: #FED480;
+    border-style: none;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    width: 247px;
+    border-radius: 50px;
+    margin-bottom: 50px;
+}
+
+.middle-footer{
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.middle-footer h1{
+    padding-top: 0px;
+    margin: 0;
+    font-size: 53px;
+    font-weight: bold;
+}
+
+.middle-footer p{
+    font-size: 16px;
+}
+
+.social-icon{
+    padding: 20px 50px 20px 50px;
+}
+
+.right-footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-bottom: 0px;
+}
+
+.right-footer button{
+    font-size: 22px;
+    background-color: #FED480;
+    border-style: none;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    width: 247px;
+    border-radius: 50px;
+}
