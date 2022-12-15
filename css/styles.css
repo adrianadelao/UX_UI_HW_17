@@ -29,7 +29,7 @@ li{
 .hero{
     padding: 50px 0px 150px 50px;
     justify-content: space-between;
-    background-image: url(/images/walking-people.png);
+    background-image: url('../images/walking-people.png');
     background-repeat: no-repeat;
     background-position: bottom right;
 }
@@ -88,7 +88,7 @@ button{
 }
 
 .second-section{
-    background-image: url(/images/wave-yellow.png);
+    background-image: url('../images/wave-yellow.png');
     background-repeat:no-repeat;
     display: inline-flex;
     background-size: cover;
@@ -166,7 +166,7 @@ h2{
 
 .fourth-section{
     text-align: center;
-    background-image: url(/images/wave-blue.png);
+    background-image: url('../images/wave-blue.png');
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 100px;
